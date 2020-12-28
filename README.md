@@ -1,1 +1,1 @@
-"# Open each folder to get respective Documentations" 
+# Open each folder to get respective Documentations
